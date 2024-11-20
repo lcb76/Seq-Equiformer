@@ -1,0 +1,11 @@
+Due to the limitation of file size, the related checkpoint must be obtained from the link provided below.
+Checkpoint of EquiformerV2 used in the project:
+https://drive.google.com/file/d/1zBf2u7gOYW9Y-b38OLP9xVnpQgT6p_YX/view?usp=drive_link
+Seq_Equiformer checkpoint after completion of training:
+https://drive.google.com/file/d/14WdCFhE9hlUliZeOmnR4v9Rnr-eEpWjX/view?usp=drive_link
+
+If you find that the link is broken, you can email me to get the latest checkpoint file.
+
+Emails:
+259lcb@gmail.com
+lichengbo23@mails.ucas.ac.cn

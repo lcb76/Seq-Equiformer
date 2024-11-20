@@ -44,7 +44,7 @@ def get_dataloader(data, batch_size, num_workers, shuffle: bool):
 
 def get_loader(path, num_workers, batch_size, shuffle: bool):
     batch_slab = []
-    data_train = LmdbDataset({"src": path + '/train.lmdb'})
+    data_train = LmdbDataset({"src": path + '/train_demo.lmdb'})
     for i in range(len(data_train) // 4):
         batch_data = [data_train[i * 4], data_train[i * 4 + 1], data_train[i * 4 + 2], data_train[i * 4 + 3]]
         batch_slab.append(batch_data)
